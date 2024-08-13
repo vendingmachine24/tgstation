@@ -9,6 +9,7 @@
  * The byond world object stores some basic byond level config, and has a few hub specific procs for managing hub visiblity
  */
 /world
+	turn_heat_on = 1
 	mob = /mob/dead/new_player
 	turf = /turf/open/space/basic
 	area = /area/space
